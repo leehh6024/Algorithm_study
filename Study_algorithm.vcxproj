@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="maximum_2562.c" />
     <ClCompile Include="superich_1271.c" />
     <ClCompile Include="swarf_2309.c" />
     <ClCompile Include="Fibonacci_2747.c" />

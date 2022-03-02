@@ -24,5 +24,8 @@
     <ClCompile Include="superich_1271.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="maximum_2562.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
