@@ -30,5 +30,8 @@
     <ClCompile Include="sort_2751.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="prizeMoneyHunter_15953.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

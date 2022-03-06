@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="maximum_2562.c" />
+    <ClCompile Include="prizeMoneyHunter_15953.c" />
     <ClCompile Include="sort_2751.c" />
     <ClCompile Include="superich_1271.c" />
     <ClCompile Include="swarf_2309.c" />
@@ -128,6 +129,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <HeapReserveSize>268435456</HeapReserveSize>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
