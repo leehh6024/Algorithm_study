@@ -33,5 +33,11 @@
     <ClCompile Include="prizeMoneyHunter_15953.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="threeNumber_2752.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="selfNumber_4673.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
