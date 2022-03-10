@@ -39,5 +39,14 @@
     <ClCompile Include="selfNumber_4673.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="Fibonacci2_2748.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="contest_5576.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="ATM_11399.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

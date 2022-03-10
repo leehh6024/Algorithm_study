@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="contest_5576.c" />
     <ClCompile Include="maximum_2562.c" />
     <ClCompile Include="prizeMoneyHunter_15953.c" />
     <ClCompile Include="sort_2751.c" />
@@ -27,6 +28,8 @@
     <ClCompile Include="Fibonacci_2747.c" />
     <ClCompile Include="threeNumber_2752.c" />
     <ClCompile Include="selfNumber_4673.c" />
+    <ClCompile Include="Fibonacci2_2748.c" />
+    <ClCompile Include="ATM_11399.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
